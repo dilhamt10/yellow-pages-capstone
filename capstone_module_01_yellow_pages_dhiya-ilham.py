@@ -52,7 +52,7 @@ def input_daftar():
         print("Enter a valid number.")
         return None
 
-"""### 1) Menampilkan daftar Yellow Pages (READ)"""
+"""### 1) Display the Yellow Pages (READ)"""
 
 def menampilkan_daftar_yellowpages():
     global df
@@ -61,7 +61,7 @@ print("\nWelcome to the Yellow Pages")
 print("List of the Yellow Pages:\n")
 print(df) #Update the latest list of yellow pages
 
-"""### 2) Menambah Daftar Yellow Pages (CREATE)"""
+"""### 2) Append the Yellow Pages (CREATE)"""
 
 from datetime import datetime
 
@@ -95,7 +95,7 @@ menambah_daftar_yellowpages()
 # Display the updated DataFrame
 print(df)
 
-"""### 3) Menghapus Daftar Yellow Pages (DELETE)"""
+"""### 3) Delete list of Yellow Pages (DELETE)"""
 
 def menghapus_daftar_yellowpages():
     global df
@@ -114,7 +114,7 @@ def menghapus_daftar_yellowpages():
 menghapus_daftar_yellowpages()
 print(df)
 
-"""### 4) Update Daftar Yellow Pages (UPDATE)"""
+"""### 4) Update list of Yellow Pages (UPDATE)"""
 
 from datetime import datetime
 
