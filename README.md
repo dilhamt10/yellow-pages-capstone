@@ -20,4 +20,5 @@ as part of my Purwadhika Data Science & Machine Learning Bootcamp.
 This project is a step toward building **scalable CRUD applications** with an **extra layer of data tracking** for better usability.  
 More enhancements to come!
 
-🔗 **Check out the repo, I am open for discussion, and give it a star if you like it!** ⭐
+🔗**Code on Colab:** [Link](https://colab.research.google.com/drive/1bbjG6XXmgMZZML5l7XZG2XahSHd31H_F?usp=sharing)  
+⭐**Check out the repo, I am open for discussion, and give it a star if you like it!** ⭐
