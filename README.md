@@ -21,4 +21,7 @@ This project is a step toward building **scalable CRUD applications** with an **
 More enhancements to come!
 
 🔗**Code on Colab:** [Link](https://colab.research.google.com/drive/1bbjG6XXmgMZZML5l7XZG2XahSHd31H_F?usp=sharing)  
+🔗**Youtube:** [Link](https://www.youtube.com/watch?v=Njc70fHwAu0)  
+🔗**Linkedin:** [Dhiya Ilham](https://www.linkedin.com/in/dhiya-ilhamtri/)  
+
 ⭐**Check out the repo, I am open for discussion, and give it a star if you like it!** ⭐
