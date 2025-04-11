@@ -24,4 +24,4 @@ More enhancements to come!
 🔗**Youtube:** [Link](https://www.youtube.com/watch?v=Njc70fHwAu0)  
 🔗**Linkedin:** [Dhiya Ilham](https://www.linkedin.com/in/dhiya-ilhamtri/)  
 
-⭐**Check out the repo, I am open for discussion, and give it a star if you like it!** ⭐
+⭐**Check out the repo and I am pleased for discussion. Give it a star if you like it!** ⭐
